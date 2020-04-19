@@ -29,5 +29,3 @@ const yugioh = (integer) => {
   }
   return arr;
 };
-
-console.log(yugioh(30));
